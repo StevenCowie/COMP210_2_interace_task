@@ -11,7 +11,7 @@ As mentioned above I could only get one tracker the majority of the time. Anothe
 The player spawns in and has to pick up his egg (tracker) and sword (controller), the enemies will start coming right away so the player must get ready to defend their egg at all costs! Keep the egg away from the enemies while making sure not to break it by moving too fast! Use your sword to swipe and kill enemies and carefully walk towards the two cubes which is the finish line.
 ## User Stories
 https://trello.com/b/drVmNwpL/vr-game  
-![Trello Screenshot](https://imgur.com/a/9QFfg)
+Trello Screenshot -https://imgur.com/a/9QFfg  
 ## Video of Gameplay
 https://www.youtube.com/watch?v=Huz0elxss98
 This video demonstrates how the game is played, the player walks across the room carefu;ly defending his egg while using his sword to kill enemies, the end of the video show when the player moves too quikcly the egg breaks and the game quits.
