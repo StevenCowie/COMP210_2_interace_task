@@ -13,3 +13,10 @@ The player spawns in and has to pick up his egg (tracker) and sword (controller)
 https://trello.com/b/drVmNwpL/vr-game
 ## Video of Gameplay
 https://www.youtube.com/watch?v=Huz0elxss98
+This video demonstrates how the game is played, the player walks across the room carefu;ly defending his egg while using his sword to kill enemies, the end of the video show when the player moves too quikcly the egg breaks and the game quits.
+## Assets I've Used
+Ambient backing track - https://www.youtube.com/watch?v=4NRaQ8OC780
+Enemy hit sound - Jonny Marx
+Enemy Model - UE4 Content Examples
+Egg Cracking Sound - https://www.youtube.com/watch?v=B-YKXStWwFs
+Sword Model by Brandon Evans - https://poly.google.com/view/94l5DEVQPM2
